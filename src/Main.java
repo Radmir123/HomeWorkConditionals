@@ -27,7 +27,6 @@ public class Main {
          }
         // Задание 4
         var deliveryDistance = 95;
-
          //var time = (deliveryDistance - 40)/20;
          if (deliveryDistance < 20){
              System.out.println("Потребуется дней: 1");
